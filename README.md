@@ -67,7 +67,7 @@ https://public.tableau.com/app/profile/giovanny.theotista/viz/FinancialActivity_
 
 Here's a glimpse of this Tableau project:
 
-<img width="1193" height="895" alt="image" src="https://github.com/user-attachments/assets/63a8a857-7505-461e-bfe7-00d521045375" />
+<img width="1160" height="824" alt="image" src="https://github.com/user-attachments/assets/7b802646-f765-404a-b150-8bb2395cac76" />
 
 
 **KPIs:**
