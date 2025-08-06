@@ -1,7 +1,7 @@
 # User Financial Behavior Analysis
-**Tools:** SQL, Tableau
-**Visualizations:** KPI Cards, Line Chart, Segmented Histogram, Geo Map
-**Dataset:** Public synthetic data (users, cards, transactions)
+- **Tools:** SQL, Tableau
+- **Visualizations:** KPI Cards, Line Chart, Segmented Histogram, Geo Map
+- **Dataset:** Public synthetic data (users, cards, transactions)
 
 ---
 
