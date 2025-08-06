@@ -9,7 +9,7 @@
 ### Problem Statement
 - Business Perspective: Data-driven decisions in marketing strategy, risk management, and product development depend on an understanding of user behavior. Financial organizations can reduce risk and increase profitability by using spending trends, debt levels, and card usage.
 - User Perspective: By identifying user demands and hazards, this study enables more relevant and individualized services.
-- 
+
 ### Goals
 - Examine users' financial transactions across a number of years.
 - Determine client categories according to activity levels, debt, and spending.
