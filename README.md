@@ -59,6 +59,17 @@
 - 0% of users were exposed to the dark web (through card tracking).
 
 ### Dashboard Insights (Tableau)
+
+**Dashboard**
+The clean data saved from the previous SQL results is visualized using Tableau. Here is the link to this Tableau project:
+
+https://public.tableau.com/app/profile/giovanny.theotista/viz/FinancialActivity_17544578630310/Dashboard1?publish=yes
+
+Here's a glimpse of this Tableau project:
+
+<img width="1193" height="895" alt="image" src="https://github.com/user-attachments/assets/63a8a857-7505-461e-bfe7-00d521045375" />
+
+
 **KPIs:**
 - Total Amount: $571.8M
 - Total Transactions: 13.3M
